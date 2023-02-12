@@ -1,0 +1,829 @@
+﻿MtgCode,Track,MtgType,State,NoRaces,NoRunners,AdjRun,FavWin,Day,OtherWin,10Win,20Win,40Win,90Win
+13-Jan-23 Ballina,Ballina,Country,NSW,8,81,8,1,6,5,2,0,0,0
+13-Jan-23 Cranbourne,Cranbourne,Country,VIC,8,69,7,3,6,4,1,0,0,0
+13-Jan-23 Geelong,Geelong,Country,VIC,8,77,7.5,0,6,6,1,1,0,0
+12-Jan-23 Gunnedah,Gunnedah,Country,NSW,8,90,9,1,5,4,2,0,1,0
+12-Jan-23 Moruya,Moruya,Country,NSW,7,63,6.5,3,5,3,1,0,0,0
+12-Jan-23 Pakenham,Pakenham,Country,VIC,8,84,8.5,3,5,3,2,0,0,0
+12-Jan-23 Penola,Penola,Country,SA,8,82,8,1,5,6,1,0,0,0
+11-Jan-23 Canberra,Canberra,Country,ACT,8,65,6.5,3,4,3,2,0,0,0
+10-Jan-23 Albury,Albury,Country,NSW,8,74,7.5,3,3,4,1,0,0,0
+10-Jan-23 Yarra Valley,Yarra Valley,Country,VIC,8,90,9,4,3,2,2,0,0,0
+9-Jan-23 Taree,Taree,Country,NSW,7,64,6.5,1,2,3,3,0,0,0
+9-Jan-23 Dubbo,Dubbo,Country,NSW,7,86,8.5,4,2,2,1,0,0,0
+8-Jan-23 Mornington,Mornington,Country,VIC,7,57,5.5,3,1,3,1,0,0,0
+7-Jan-23 Glen Innes,Glen Innes,Country,NSW,6,64,6.5,3,7,3,0,0,0,0
+7-Jan-23 Queanbeyan,Queanbeyan,Country,NSW,6,52,5,1,7,2,2,0,0,1
+7-Jan-23 Werribee,Werribee,Country,VIC,6,71,7,2,7,2,1,1,0,0
+6-Jan-23 Cranbourne,Cranbourne,Country,VIC,8,66,6.5,3,6,3,2,0,0,0
+6-Jan-23 Port Macquarie,Port Macquarie,Country,NSW,8,90,9,4,6,2,1,0,1,0
+6-Jan-23 Stawell,Stawell,Country,VIC,9,103,10.5,4,6,5,0,0,0,0
+6-Jan-23 Orange,Orange,Country,NSW,8,69,7,1,6,6,1,0,0,0
+5-Jan-23 Wagga,Wagga,Country,NSW,8,83,8.5,6,5,1,0,0,1,0
+4-Jan-23 Geelong,Geelong,Country,VIC,8,86,8.5,3,4,3,2,0,0,0
+3-Jan-23 Taree,Taree,Country,NSW,8,84,8.5,4,3,4,0,0,0,0
+3-Jan-23 Muswellbrook,Muswellbrook,Country,NSW,7,75,7.5,1,3,6,0,0,0,0
+3-Jan-23 Stony Creek,Stony Creek,Country,VIC,8,69,7,2,3,4,2,0,0,0
+2-Jan-23 Moruya,Moruya,Country,NSW,8,62,6,2,2,5,0,1,0,0
+2-Jan-23 Gilgandra,Gilgandra,Country,NSW,7,68,7,3,2,3,0,1,0,0
+2-Jan-23 Terang,Terang,Country,VIC,8,81,8,4,2,2,2,0,0,0
+1-Jan-23 Inverell,Inverell,Country,NSW,8,94,9.5,4,1,3,1,0,0,0
+1-Jan-23 Port Macquarie,Port Macquarie,Country,NSW,6,60,6,3,1,3,0,0,0,0
+1-Jan-23 Burrumbeet,Burrumbeet,Country,VIC,9,72,7,1,1,6,0,2,0,0
+1-Jan-23 Mornington,Mornington,Country,VIC,7,73,7.5,3,1,3,1,0,0,0
+31-Dec-22 Warrnambool,Warrnambool,Country,VIC,8,83,8.5,3,7,4,1,0,0,0
+31-Dec-22 Gilgandra,Gilgandra,Country,NSW,6,68,7,3,7,0,1,2,0,0
+31-Dec-22 Nowra,Nowra,Country,NSW,6,53,5.5,3,7,2,0,1,0,0
+30-Dec-22 Canberra,Canberra,Country,ACT,10,68,7,4,6,6,0,0,0,0
+30-Dec-22 Wangaratta,Wangaratta,Country,VIC,8,100,10,1,6,5,2,0,0,0
+30-Dec-22 Orange,Orange,Country,NSW,7,69,7,5,6,2,0,0,0,0
+29-Dec-22 Cranbourne,Cranbourne,Country,VIC,8,71,7,6,5,2,0,0,0,0
+29-Dec-22 Coffs Harbour,Coffs Harbour,Country,NSW,8,85,8.5,3,5,4,1,0,0,0
+29-Dec-22 Naracoorte,Naracoorte,Country,SA,7,64,6.5,3,5,2,0,2,0,0
+28-Dec-22 Corowa,Corowa,Country,NSW,7,53,5.5,4,4,3,0,0,0,0
+28-Dec-22 Mornington,Mornington,Country,VIC,8,64,6.5,1,4,6,1,0,0,0
+28-Dec-22 Bowraville,Bowraville,Country,NSW,6,43,4.5,3,4,2,1,0,0,0
+27-Dec-22 Sapphire Coast,Sapphire Coast,Country,NSW,7,60,6,4,3,3,0,0,0,0
+27-Dec-22 Murwillumbah,Murwillumbah,Country,NSW,7,59,6,5,3,2,0,0,0,0
+27-Dec-22 Stony Creek,Stony Creek,Country,VIC,8,72,7,3,3,5,0,0,0,0
+26-Dec-22 Geelong,Geelong,Country,VIC,7,69,7,2,2,4,1,0,0,0
+26-Dec-22 Ballina,Ballina,Country,NSW,6,56,5.5,4,2,1,1,0,0,0
+24-Dec-22 Tamworth,Tamworth,Country,NSW,8,90,9,4,7,4,0,0,0,0
+23-Dec-22 Cranbourne,Cranbourne,Country,VIC,8,83,8.5,1,6,6,1,0,0,0
+23-Dec-22 Wagga,Wagga,Country,NSW,8,79,8,2,6,4,2,0,0,0
+23-Dec-22 Coonabarabran,Coonabarabran,Country,NSW,8,92,9,0,6,6,1,1,0,0
+23-Dec-22 Yarra Valley,Yarra Valley,Country,VIC,10,110,11,3,6,3,4,0,0,0
+22-Dec-22 Wangaratta,Wangaratta,Country,VIC,8,91,9,4,5,3,1,0,0,0
+20-Dec-22 Scone,Scone,Country,NSW,7,72,7,3,3,1,2,1,0,0
+20-Dec-22 Terang,Terang,Country,VIC,10,119,12,5,3,2,1,1,1,0
+19-Dec-22 Corowa,Corowa,Country,NSW,7,61,6,1,2,4,2,0,0,0
+19-Dec-22 Dubbo,Dubbo,Country,NSW,7,75,7.5,2,2,3,1,0,1,0
+18-Dec-22 Moruya,Moruya,Country,NSW,8,97,9.5,5,1,3,0,0,0,0
+18-Dec-22 Werribee,Werribee,Country,VIC,8,77,7.5,4,1,3,1,0,0,0
+18-Dec-22 Taree,Taree,Country,NSW,7,79,8,3,1,3,1,0,0,0
+18-Dec-22 Horsham,Horsham,Country,VIC,7,81,8,3,1,2,2,0,0,0
+17-Dec-22 Benalla,Benalla,Country,VIC,6,63,6.5,2,7,4,0,0,0,0
+17-Dec-22 Colac,Colac,Country,VIC,7,69,7,2,7,4,1,0,0,0
+17-Dec-22 Moree,Moree,Country,NSW,6,53,5.5,4,7,1,1,0,0,0
+16-Dec-22 Warren,Warren,Country,NSW,7,76,7.5,2,6,3,2,0,0,0
+16-Dec-22 Ballina,Ballina,Country,NSW,8,80,8,2,6,4,2,0,0,0
+16-Dec-22 Geelong,Geelong,Country,VIC,8,84,8.5,4,6,4,0,0,0,0
+16-Dec-22 Goulburn,Goulburn,Country,NSW,7,69,7,4,6,3,0,0,0,0
+15-Dec-22 Kyneton,Kyneton,Country,VIC,8,83,8.5,4,5,3,0,1,0,0
+13-Dec-22 Tuncurry,Tuncurry,Country,NSW,8,84,8.5,2,3,5,0,1,0,0
+13-Dec-22 Tamworth,Tamworth,Country,NSW,8,86,8.5,3,3,5,0,0,0,0
+13-Dec-22 Mornington,Mornington,Country,VIC,8,68,7,2,3,4,1,1,0,0
+11-Dec-22 Canberra,Canberra,Country,ACT,8,72,7,2,1,4,1,1,0,0
+11-Dec-22 Bendigo,Bendigo,Country,VIC,8,92,9,2,1,4,2,0,0,0
+11-Dec-22 Armidale,Armidale,Country,NSW,8,81,8,4,1,3,0,0,0,1
+11-Dec-22 Bordertown,Bordertown,Country,SA,8,91,9,5,1,3,0,0,0,0
+10-Dec-22 Wangaratta,Wangaratta,Country,VIC,10,126,12.5,2,7,2,4,2,0,0
+10-Dec-22 Albury,Albury,Country,NSW,7,70,7,5,7,1,1,0,0,0
+10-Dec-22 Coffs Harbour,Coffs Harbour,Country,NSW,6,54,5.5,2,7,3,1,0,0,0
+9-Dec-22 Cranbourne,Cranbourne,Country,VIC,8,75,7.5,1,6,6,1,0,0,0
+9-Dec-22 Scone,Scone,Country,NSW,7,73,7.5,5,6,0,2,0,0,0
+9-Dec-22 Moe,Moe,Country,VIC,8,90,9,2,6,4,2,0,0,0
+9-Dec-22 Dubbo,Dubbo,Country,NSW,6,74,7.5,2,6,3,0,1,0,0
+9-Dec-22 Murwillumbah,Murwillumbah,Country,NSW,8,54,5.5,3,6,5,0,0,0,0
+8-Dec-22 Queanbeyan,Queanbeyan,Country,NSW,7,60,6,3,5,4,0,0,0,0
+8-Dec-22 Warrnambool,Warrnambool,Country,VIC,8,83,8.5,1,5,5,1,1,0,0
+6-Dec-22 Bathurst,Bathurst,Country,NSW,7,56,5.5,0,3,7,0,0,0,0
+6-Dec-22 Ballina,Ballina,Country,NSW,7,65,6.5,3,3,2,2,0,0,0
+6-Dec-22 Hamilton,Hamilton,Country,VIC,8,89,9,3,3,4,1,0,0,0
+5-Dec-22 Kempsey,Kempsey,Country,NSW,7,71,7,4,2,1,1,1,0,0
+5-Dec-22 Wagga,Wagga,Country,NSW,7,65,6.5,0,2,5,2,0,0,0
+4-Dec-22 Werribee,Werribee,Country,VIC,9,91,9,2,1,5,1,1,0,0
+4-Dec-22 Nowra,Nowra,Country,NSW,8,67,6.5,3,1,5,0,0,0,0
+4-Dec-22 Bairnsdale,Bairnsdale,Country,VIC,7,64,6.5,2,1,4,1,0,0,0
+3-Dec-22 Albury,Albury,Country,NSW,6,77,7.5,3,7,2,1,0,0,0
+3-Dec-22 Gunnedah,Gunnedah,Country,NSW,7,79,8,2,7,4,1,0,0,0
+3-Dec-22 Stawell,Stawell,Country,VIC,8,95,9.5,6,7,2,0,0,0,0
+2-Dec-22 Mudgee,Mudgee,Country,NSW,8,88,9,3,6,4,1,0,0,0
+2-Dec-22 Mornington,Mornington,Country,VIC,8,83,8.5,1,6,4,1,2,0,0
+1-Dec-22 Coffs Harbour,Coffs Harbour,Country,NSW,8,84,8.5,0.5,5,4,2.5,1,0,0
+1-Dec-22 Wangaratta,Wangaratta,Country,VIC,9,101,10,3,5,4,2,0,0,0
+30-Nov-22 Geelong,Geelong,Country,VIC,8,88,9,2,4,3,2,0,1,0
+29-Nov-22 Tamworth,Tamworth,Country,NSW,8,86,8.5,3,3,5,0,0,0,0
+29-Nov-22 Ararat,Ararat,Country,VIC,8,85,8.5,5,3,3,0,0,0,0
+28-Nov-22 Sapphire Coast,Sapphire Coast,Country,NSW,7,76,7.5,3,2,3,1,0,0,0
+28-Nov-22 Taree,Taree,Country,NSW,7,61,6,3,2,2,1,0,1,0
+28-Nov-22 Kyneton,Kyneton,Country,VIC,9,90,9,3,2,5,0,1,0,0
+27-Nov-22 Warrnambool,Warrnambool,Country,VIC,9,107,10.5,1,1,4,3,1,0,0
+27-Nov-22 Grafton,Grafton,Country,NSW,7,69,7,2,1,2,0,2,1,0
+27-Nov-22 Traralgon,Traralgon,Country,VIC,9,83,8.5,1,1,6,2,0,0,0
+26-Nov-22 Kempsey,Kempsey,Country,NSW,6,57,5.5,2,7,3,1,0,0,0
+26-Nov-22 Moe,Moe,Country,VIC,9,95,9.5,2,7,6,0,1,0,0
+26-Nov-22 Wagga Riverside,Wagga Riverside,Country,NSW,7,61,6,3,7,4,0,0,0,0
+26-Nov-22 Coonamble,Coonamble,Country,NSW,6,69,7,0,7,2,3,1,0,0
+25-Nov-22 Cranbourne,Cranbourne,Country,VIC,9,85,8.5,4,6,3,2,0,0,0
+25-Nov-22 Canberra,Canberra,Country,ACT,9,74,7.5,2,6,5,2,0,0,0
+25-Nov-22 Wodonga,Wodonga,Country,VIC,9,98,10,3,6,6,0,0,0,0
+25-Nov-22 Muswellbrook,Muswellbrook,Country,NSW,8,93,9.5,3,6,3,2,0,0,0
+24-Nov-22 Narromine,Narromine,Country,NSW,8,83,8.5,2,5,3,3,0,0,0
+24-Nov-22 Bendigo,Bendigo,Country,VIC,8,91,9,2,5,5,1,0,0,0
+22-Nov-22 Murwillumbah,Murwillumbah,Country,NSW,7,59,6,2,3,3,2,0,0,0
+22-Nov-22 Geelong,Geelong,Country,VIC,8,61,6,5,3,3,0,0,0,0
+22-Nov-22 Newcastle,Newcastle,Country,NSW,6,61,6,4,3,2,0,0,0,0
+21-Nov-22 Wagga Riverside,Wagga Riverside,Country,NSW,8,67,6.5,4,2,1,3,0,0,0
+21-Nov-22 Casterton,Casterton,Country,VIC,8,53,5.5,4,2,3,1,0,0,0
+20-Nov-22 Taree,Taree,Country,NSW,8,91,9,6,1,2,0,0,0,0
+20-Nov-22 Queanbeyan,Queanbeyan,Country,NSW,9,83,8.5,3,1,2,4,0,0,0
+20-Nov-22 Swan Hill,Swan Hill,Country,VIC,7,77,7.5,4,1,2,0,0,1,0
+20-Nov-22 Clare,Clare,Country,SA,7,58,6,4,1,2,1,0,0,0
+19-Nov-22 Inverell,Inverell,Country,NSW,6,58,6,3,7,2,1,0,0,0
+19-Nov-22 Penshurst,Penshurst,Country,VIC,8,72,7,5,7,3,0,0,0,0
+19-Nov-22 Tatura,Tatura,Country,VIC,9,91,9,5,7,2,2,0,0,0
+19-Nov-22 Roma,Roma,Country,QLD,7,79,8,1,7,4,2,0,0,0
+18-Nov-22 Grafton,Grafton,Country,NSW,9,97,9.5,5,6,2,1,1,0,0
+18-Nov-22 Naracoorte,Naracoorte,Country,SA,7,71,7,1,6,3,3,0,0,0
+18-Nov-22 Bathurst,Bathurst,Country,NSW,8,59,6,3,6,2,3,0,0,0
+18-Nov-22 Moe,Moe,Country,VIC,8,76,7.5,3,6,2,2,0,1,0
+17-Nov-22 Mornington,Mornington,Country,VIC,8,72,7,3,5,3,2,0,0,0
+17-Nov-22 Quirindi,Quirindi,Country,NSW,5,55,5.5,0,5,5,0,0,0,0
+15-Nov-22 Narromine,Narromine,Country,NSW,7,66,6.5,1,3,5,1,0,0,0
+15-Nov-22 Kyneton,Kyneton,Country,VIC,8,75,7.5,3,3,5,0,0,0,0
+14-Nov-22 Scone,Scone,Country,NSW,9,81,8,4,2,4,1,0,0,0
+14-Nov-22 Bairnsdale,Bairnsdale,Country,VIC,9,76,7.5,5,2,3,1,0,0,0
+13-Nov-22 Donald,Donald,Country,VIC,8,64,6.5,1,1,6,1,0,0,0
+13-Nov-22 Canberra,Canberra,Country,ACT,8,62,6,1,1,6,0,0,1,0
+13-Nov-22 Geelong,Geelong,Country,VIC,8,80,8,1,1,5,1,1,0,0
+12-Nov-22 Gundagai,Gundagai,Country,NSW,7,60,6,3,7,3,1,0,0,0
+12-Nov-22 Bathurst,Bathurst,Country,NSW,6,60,6,2,7,4,0,0,0,0
+12-Nov-22 Terang,Terang,Country,VIC,8,90,9,3,7,2,2,0,1,0
+12-Nov-22 Emerald,Emerald,Country,QLD,6,54,5.5,4,7,1,0,0,1,0
+11-Nov-22 Ballina,Ballina,Country,NSW,8,69,7,2,6,4,2,0,0,0
+11-Nov-22 Seymour,Seymour,Country,VIC,8,89,9,4,6,1,3,0,0,0
+11-Nov-22 Gundagai,Gundagai,Country,NSW,8,78,8,0,6,7,1,0,0,0
+10-Nov-22 Port Macquarie,Port Macquarie,Country,NSW,8,82,8,2,5,4,1,1,0,0
+10-Nov-22 Pakenham,Pakenham,Country,VIC,8,94,9.5,4,5,2,2,0,0,0
+9-Nov-22 Bendigo,Bendigo,Country,VIC,9,101,10,4,4,4,1,0,0,0
+8-Nov-22 Queanbeyan,Queanbeyan,Country,NSW,7,62,6,2,3,3,2,0,0,0
+8-Nov-22 Casterton,Casterton,Country,VIC,8,72,7,2,3,5,1,0,0,0
+7-Nov-22 Lismore,Lismore,Country,NSW,7,53,5.5,3,2,4,0,0,0,0
+7-Nov-22 Scone,Scone,Country,NSW,7,75,7.5,2,2,3.5,1.5,0,0,0
+7-Nov-22 Moe,Moe,Country,VIC,9,108,11,4,2,2,3,0,0,0
+6-Nov-22 Warren,Warren,Country,NSW,8,88,9,3,1,4,1,0,0,0
+6-Nov-22 Ararat,Ararat,Country,VIC,8,74,7.5,4,1,3,1,0,0,0
+6-Nov-22 Armidale,Armidale,Country,NSW,7,80,8,3,1,3,1,0,0,0
+6-Nov-22 Benalla,Benalla,Country,VIC,7,69,7,2,1,3,2,0,0,0
+5-Nov-22 Goulburn,Goulburn,Country,NSW,6,48,5,3.5,7,2.5,0,0,0,0
+5-Nov-22 Geelong,Geelong,Country,VIC,10,126,12.5,2,7,1,6,1,0,0
+4-Nov-22 Pakenham,Pakenham,Country,VIC,10,75,7.5,2,6,8,0,0,0,0
+4-Nov-22 Albury,Albury,Country,NSW,7,69,7,2,6,3,1,0,1,0
+4-Nov-22 Kempsey,Kempsey,Country,NSW,8,84,8.5,3,6,3,0,2,0,0
+4-Nov-22 Swan Hill,Swan Hill,Country,VIC,7,74,7.5,2,6,4,1,0,0,0
+3-Nov-22 Sapphire Coast,Sapphire Coast,Country,NSW,7,57,5.5,3,5,2,0,1,1,0
+2-Nov-22 Grafton,Grafton,Country,NSW,8,78,8,4,4,1,1,1,1,0
+2-Nov-22 Bendigo,Bendigo,Country,VIC,9,65,6.5,3,4,5,0,1,0,0
+1-Nov-22 Muswellbrook,Muswellbrook,Country,NSW,8,55,5.5,3,3,4,1,0,0,0
+1-Nov-22 Echuca,Echuca,Country,VIC,8,76,7.5,3,3,4,1,0,0,0
+1-Nov-22 Canberra,Canberra,Country,ACT,6,38,4,3,3,3,0,0,0,0
+31-Oct-22 Ballarat Synthetic,Ballarat Synthetic,Country,VIC,8,81,8,3,2,3,2,0,0,0
+31-Oct-22 Ballina,Ballina,Country,NSW,7,65,6.5,4,2,2,1,0,0,0
+30-Oct-22 Goulburn,Goulburn,Country,NSW,8,82,8,4,1,3,1,0,0,0
+30-Oct-22 Mornington,Mornington,Country,VIC,9,75,7.5,5,1,4,0,0,0,0
+30-Oct-22 Muswellbrook,Muswellbrook,Country,NSW,7,59,6,5,1,2,0,0,0,0
+30-Oct-22 Naracoorte,Naracoorte,Country,SA,7,54,5.5,5,1,2,0,0,0,0
+29-Oct-22 Coffs Harbour,Coffs Harbour,Country,NSW,6,54,5.5,0,7,3,3,0,0,0
+29-Oct-22 Dubbo,Dubbo,Country,NSW,10,114,11.5,3,7,5,2,0,0,0
+29-Oct-22 Quirindi,Quirindi,Country,NSW,6,61,6,1,7,4,0,1,0,0
+29-Oct-22 Traralgon,Traralgon,Country,VIC,8,80,8,3,7,3,2,0,0,0
+28-Oct-22 Coonamble,Coonamble,Country,NSW,8,86,8.5,2,6,4,1,1,0,0
+28-Oct-22 Pakenham Synthetic,Pakenham Synthetic,Country,VIC,9,76,7.5,5,6,4,0,0,0,0
+28-Oct-22 Wagga,Wagga,Country,NSW,8,69,7,2,6,4,1,1,0,0
+27-Oct-22 Ballarat Synthetic,Ballarat Synthetic,Country,VIC,9,64,6.5,5,5,3,1,0,0,0
+26-Oct-22 Bendigo,Bendigo,Country,VIC,9,79,8,2,4,3,3,1,0,0
+25-Oct-22 Warracknabeal,Warracknabeal,Country,VIC,8,44,4.5,2,3,5,1,0,0,0
+24-Oct-22 Newcastle B,Newcastle B,Country,NSW,9,64,6.5,4,2,2,3,0,0,0
+24-Oct-22 Casterton,Casterton,Country,VIC,8,61,6,4,2,4,0,0,0,0
+23-Oct-22 Port Macquarie,Port Macquarie,Country,NSW,7,58,6,2,1,4,1,0,0,0
+23-Oct-22 Sale,Sale,Country,VIC,9,100,10,3,1,3,2,1,0,0
+22-Oct-22 Collie,Collie,Country,WA,6,39,4,4,7,1,1,0,0,0
+22-Oct-22 Laverton,Laverton,Country,WA,6,29,3,2,7,1,3,0,0,0
+22-Oct-22 Moe,Moe,Country,VIC,8,83,8.5,4,7,2,2,0,0,0
+22-Oct-22 St Arnaud,St Arnaud,Country,VIC,8,75,7.5,2,7,2,2,2,0,0
+21-Oct-22 Canberra,Canberra,Country,ACT,9,88,9,5,6,4,0,0,0,0
+21-Oct-22 Cranbourne,Cranbourne,Country,VIC,10,93,9.5,1,6,5,3,1,0,0
+21-Oct-22 Gosford,Gosford,Country,NSW,8,55,5.5,5,6,3,0,0,0,0
+20-Oct-22 Ballarat,Ballarat,Country,VIC,9,107,10.5,0,5,6,3,0,0,0
+19-Oct-22 Geelong,Geelong,Country,VIC,10,135,13.5,5,4,3,2,0,0,0
+19-Oct-22 Wagga,Wagga,Country,NSW,10,121,12,5,4,4,0,1,0,0
+18-Oct-22 Bathurst,Bathurst,Country,NSW,7,68,7,2,3,4,0,1,0,0
+18-Oct-22 Casterton,Casterton,Country,VIC,8,85,8.5,4,3,4,0,0,0,0
+18-Oct-22 Grafton,Grafton,Country,NSW,8,90,9,3,3,3,2,0,0,0
+17-Oct-22 Mornington,Mornington,Country,VIC,8,85,8.5,1,2,4,2,1,0,0
+17-Oct-22 Mount Isa,Mount Isa,Country,QLD,7,49,5,4,2,3,0,0,0,0
+17-Oct-22 Muswellbrook,Muswellbrook,Country,NSW,8,88,9,3,2,4,0,1,0,0
+16-Oct-22 Horsham,Horsham,Country,VIC,8,74,7.5,3,1,3,1,1,0,0
+16-Oct-22 Lismore,Lismore,Country,NSW,7,65,6.5,2,1,3,2,0,0,0
+16-Oct-22 Nowra,Nowra,Country,NSW,7,54,5.5,4,1,2,1,0,0,0
+16-Oct-22 Pakenham Synthetic,Pakenham Synthetic,Country,VIC,8,71,7,2,1,4,2,0,0,0
+15-Oct-22 Ballarat Synthetic,Ballarat Synthetic,Country,VIC,8,51,5,4,7,3,1,0,0,0
+15-Oct-22 Leinster,Leinster,Country,WA,6,28,3,1,7,4,1,0,0,0
+14-Oct-22 Moe,Moe,Country,VIC,9,60,6,3,6,5,1,0,0,0
+14-Oct-22 Pakenham Synthetic,Pakenham Synthetic,Country,VIC,8,83,8.5,1,6,3,3,1,0,0
+14-Oct-22 Taree,Taree,Country,NSW,8,80,8,3,6,3,2,0,0,0
+12-Oct-22 Dubbo,Dubbo,Country,NSW,8,88,9,2,4,5,1,0,0,0
+11-Oct-22 Echuca,Echuca,Country,VIC,8,77,7.5,4,3,4,0,0,0,0
+11-Oct-22 Goulburn,Goulburn,Country,NSW,7,73,7.5,0,3,6,0,1,0,0
+10-Oct-22 Bairnsdale,Bairnsdale,Country,VIC,9,94,9.5,2,2,7,0,0,0,0
+10-Oct-22 Murwillumbah,Murwillumbah,Country,NSW,7,50,5,2,2,4,1,0,0,0
+10-Oct-22 Tamworth,Tamworth,Country,NSW,7,76,7.5,3,2,1,2,1,0,0
+9-Oct-22 Ballarat,Ballarat,Country,VIC,8,45,4.5,4,1,4,0,0,0,0
+9-Oct-22 Penola,Penola,Country,SA,7,68,7,1,1,5,0,1,0,0
+8-Oct-22 Hamilton,Hamilton,Country,VIC,8,66,6.5,0,7,6,1,0,0,1
+8-Oct-22 Manangatang,Manangatang,Country,VIC,8,67,6.5,3,7,3,2,0,0,0
+8-Oct-22 Moora,Moora,Country,WA,6,34,3.5,1,7,5,0,0,0,0
+8-Oct-22 Port Macquarie,Port Macquarie,Country,NSW,7,87,8.5,1,7,4,2,0,0,0
+7-Oct-22 Ballarat Synthetic,Ballarat Synthetic,Country,VIC,8,50,5,5,6,2,0,0,1,0
+7-Oct-22 Cloncurry,Cloncurry,Country,QLD,7,73,7.5,5,6,1,0,1,0,0
+7-Oct-22 Cranbourne,Cranbourne,Country,VIC,9,66,6.5,6,6,2,1,0,0,0
+7-Oct-22 Leonora,Leonora,Country,WA,6,30,3,3,6,3,0,0,0,0
+7-Oct-22 Port Macquarie,Port Macquarie,Country,NSW,8,96,9.5,2,6,5,0,1,0,0
+6-Oct-22 Mornington,Mornington,Country,VIC,9,108,11,4,5,2,1,2,0,0
+6-Oct-22 Tamworth,Tamworth,Country,NSW,7,64,6.5,4,5,3,0,0,0,0
+5-Oct-22 Sale,Sale,Country,VIC,8,82,8,2,4,2,3,1,0,0
+4-Oct-22 Mildura,Mildura,Country,VIC,8,83,8.5,3,3,3,1,1,0,0
+4-Oct-22 Goulburn,Goulburn,Country,NSW,8,78,8,2,3,5,1,0,0,0
+3-Oct-22 Muswellbrook,Muswellbrook,Country,NSW,7,88,9,2,2,3,1,1,0,0
+3-Oct-22 Pakenham Synthetic,Pakenham Synthetic,Country,VIC,10,101,10,4,2,5,0,0,1,0
+2-Oct-22 Bendigo,Bendigo,Country,VIC,8,87,8.5,1,1,6,1,0,0,0
+2-Oct-22 Grafton,Grafton,Country,NSW,8,59,6,3,1,4,1,0,0,0
+2-Oct-22 Narrandera,Narrandera,Country,NSW,8,66,6.5,5,1,3,0,0,0,0
+2-Oct-22 Wangaratta,Wangaratta,Country,VIC,10,113,11.5,2,1,7,1,0,0,0
+1-Oct-22 Murtoa,Murtoa,Country,VIC,8,84,8.5,2,7,5,1,0,0,0
+1-Oct-22 Wagga,Wagga,Country,NSW,6,52,5,3,7,1,1,1,0,0
+30-Sep-22 Ballarat Synthetic,Ballarat Synthetic,Country,VIC,8,70,7,4,6,3,1,0,0,0
+30-Sep-22 Dubbo,Dubbo,Country,NSW,9,106,10.5,0,6,8,0,1,0,0
+30-Sep-22 Moruya,Moruya,Country,NSW,7,52,5,3,6,3,0,1,0,0
+29-Sep-22 Geelong,Geelong,Country,VIC,10,103,10.5,3,5,4,2,1,0,0
+28-Sep-22 Cranbourne,Cranbourne,Country,VIC,8,87,8.5,2,4,5,1,0,0,0
+27-Sep-22 Grafton,Grafton,Country,NSW,9,104,10.5,2,3,5,1,1,0,0
+26-Sep-22 Belmont,Belmont,Country,WA,10,105,10.5,5,2,3,1,0,1,0
+26-Sep-22 Narrandera,Narrandera,Country,NSW,7,59,6,3,2,4,0,0,0,0
+26-Sep-22 Tamworth,Tamworth,Country,NSW,7,71,7,3,2,2,2,0,0,0
+25-Sep-22 Bathurst,Bathurst,Country,NSW,8,87,8.5,2,1,4,1,1,0,0
+25-Sep-22 Naracoorte,Naracoorte,Country,SA,8,63,6.5,2,1,4,2,0,0,0
+25-Sep-22 Port Macquarie,Port Macquarie,Country,NSW,7,73,7.5,2,1,5,0,0,0,0
+24-Sep-22 Canberra,Canberra,Country,ACT,8,66,6.5,2,7,6,0,0,0,0
+24-Sep-22 Longreach,Longreach,Country,QLD,8,84,8.5,4,7,3,0,1,0,0
+24-Sep-22 Meekatharra,Meekatharra,Country,WA,6,28,3,4,7,2,0,0,0,0
+23-Sep-22 Benalla,Benalla,Country,VIC,9,81,8,5,6,2,1,1,0,0
+23-Sep-22 Coleraine,Coleraine,Country,VIC,8,83,8.5,4,6,4,0,0,0,0
+23-Sep-22 Ewan,Ewan,Country,QLD,8,65,6.5,3,6,5,0,0,0,0
+23-Sep-22 Goulburn,Goulburn,Country,NSW,9,89,9,4,6,4,0,1,0,0
+23-Sep-22 Scone,Scone,Country,NSW,9,73,7.5,6.5,6,0,0.5,2,0,0
+22-Sep-22 Lismore,Lismore,Country,NSW,2,16,1.5,0,5,2,0,0,0,0
+22-Sep-22 Moe,Moe,Country,VIC,10,103,10.5,2,5,7,1,0,0,0
+22-Sep-22 Pakenham Synthetic,Pakenham Synthetic,Country,VIC,8,91,9,2,5,6,0,0,0,0
+21-Sep-22 Bendigo,Bendigo,Country,VIC,9,71,7,4,4,3,1,1,0,0
+20-Sep-22 Forbes,Forbes,Country,NSW,5,36,3.5,1.5,3,3.5,0,0,0,0
+20-Sep-22 Warracknabeal,Warracknabeal,Country,VIC,8,74,7.5,1,3,5,1,0,1,0
+19-Sep-22 Grafton,Grafton,Country,NSW,8,101,10,2,2,4,1,0,1,0
+19-Sep-22 Pakenham Synthetic,Pakenham Synthetic,Country,VIC,9,95,9.5,4,2,4,0,1,0,0
+18-Sep-22 Armidale,Armidale,Country,NSW,7,64,6.5,1,1,4,2,0,0,0
+18-Sep-22 Nowra,Nowra,Country,NSW,7,44,4.5,3,1,3,1,0,0,0
+17-Sep-22 Bowraville,Bowraville,Country,NSW,7,58,6,2,7,5,0,0,0,0
+17-Sep-22 Mount Magnet,Mount Magnet,Country,WA,6,39,4,2,7,4,0,0,0,0
+17-Sep-22 Wagga,Wagga,Country,NSW,7,67,6.5,2,7,3,2,0,0,0
+14-Jan-23 Kilmore,Kilmore,Country,VIC,7,75,7.5,1,7,0,5,1,0,0
+14-Jan-23 Tuncurry,Tuncurry,Country,NSW,7,81,8,3,7,2.5,1.5,0,0,0
+15-Jan-23 Benalla,Benalla,Country,VIC,1,10,1,1,1,0,0,0,0,0
+15-Jan-23 Lismore,Lismore,Country,NSW,7,58,6,1,1,5,1,0,0,0
+15-Jan-23 Moe,Moe,Country,VIC,8,71,7,4,1,1,1,2,0,0
+15-Jan-23 Orange,Orange,Country,NSW,8,78,8,1,1,7,0,0,0,0
+16-Jan-23 Muswellbrook,Muswellbrook,Country,NSW,7,71,7,2,2,5,0,0,0,0
+16-Jan-23 Queanbeyan,Queanbeyan,Country,NSW,7,58,6,4,2,3,0,0,0,0
+17-Jan-23 Hamilton,Hamilton,Country,VIC,8,77,7.5,3,3,4,1,0,0,0
+17-Jan-23 Wagga,Wagga,Country,NSW,7,60,6,5,3,2,0,0,0,0
+19-Jan-23 Pakenham,Pakenham,Country,VIC,8,79,8,3,5,4,1,0,0,0
+19-Jan-23 Tamworth,Tamworth,Country,NSW,8,75,7.5,3,5,2,2,1,0,0
+19-Jan-23 Wangaratta,Wangaratta,Country,VIC,10,113,11.5,0,5,5,5,0,0,0
+20-Jan-23 Canberra,Canberra,Country,ACT,8,59,6,5,6,3,0,0,0,0
+20-Jan-23 Port Macquarie,Port Macquarie,Country,NSW,8,93,9.5,4,6,1,1,2,0,0
+21-Jan-23 Camperdown,Camperdown,Country,VIC,9,91,9,2,7,6,1,0,0,0
+21-Jan-23 Murwillumbah,Murwillumbah,Country,NSW,6,50,5,1,7,4,1,0,0,0
+21-Jan-23 Parkes,Parkes,Country,NSW,7,70,7,5,7,1,0,1,0,0
+22-Jan-23 Grafton,Grafton,Country,NSW,6,68,7,0,1,4,1,1,0,0
+22-Jan-23 Great Western,Great Western,Country,VIC,8,64,6.5,4,1,3,0,1,0,0
+22-Jan-23 Mornington,Mornington,Country,VIC,8,67,6.5,2,1,6,0,0,0,0
+23-Jan-23 Armidale,Armidale,Country,NSW,7,62,6,2,2,2,2,0,1,0
+23-Jan-23 Goulburn,Goulburn,Country,NSW,7,57,5.5,3,2,4,0,0,0,0
+24-Jan-23 Bathurst,Bathurst,Country,NSW,7,65,6.5,5,3,2,0,0,0,0
+24-Jan-23 Moe,Moe,Country,VIC,8,71,7,3,3,5,0,0,0,0
+24-Jan-23 Emerald,Emerald,Country,QLD,7,57,5.5,3,3,3,1,0,0,0
+25-Jan-23 Pakenham,Pakenham,Country,VIC,8,76,7.5,1,4,5,1,1,0,0
+25-Jan-23 Warrnambool,Warrnambool,Country,VIC,8,72,7,5,4,2,1,0,0,0
+26-Jan-23 Hanging Rock,Hanging Rock,Country,VIC,7,69,7,1,5,4,2,0,0,0
+26-Jan-23 Wagga,Wagga,Country,NSW,7,67,6.5,2,5,5,0,0,0,0
+27-Jan-23 Kilmore,Kilmore,Country,VIC,9,97,9.5,5,6,2,1,0,1,0
+27-Jan-23 Scone,Scone,Country,NSW,8,76,7.5,4,6,3,1,0,0,0
+27-Jan-23 Taree,Taree,Country,NSW,8,95,9.5,3,6,3,2,0,0,0
+28-Jan-23 Sapphire Coast,Sapphire Coast,Country,NSW,7,62,6,3,7,3,1,0,0,0
+28-Jan-23 Tamworth,Tamworth,Country,NSW,6,69,7,2,7,4,0,0,0,0
+28-Jan-23 Bundaberg,Bundaberg,Country,QLD,6,54,5.5,2,7,4,0,0,0,0
+28-Jan-23 Yarra Valley,Yarra Valley,Country,VIC,7,64,6.5,3,7,2,1,1,0,0
+29-Jan-23 Benalla,Benalla,Country,VIC,6,59,6,0,1,4,1,0,1,0
+29-Jan-23 Geelong,Geelong,Country,VIC,8,78,8,4,1,2,2,0,0,0
+29-Jan-23 Murwillumbah,Murwillumbah,Country,NSW,7,54,5.5,0,1,5,2,0,0,0
+29-Jan-23 Sapphire Coast,Sapphire Coast,Country,NSW,8,79,8,2,1,6,0,0,0,0
+13-Jan-23 Esperance,Esperance,Provincial,WA,8,75,7.5,3,6,4,0,1,0,0
+13-Jan-23 Gosford,Gosford,Provincial,NSW,7,74,7.5,1,6,1,4,0,0,1
+13-Jan-23 Townsville,Townsville,Provincial,QLD,9,84,8.5,1,6,4,3,1,0,0
+12-Jan-23 Kilcoy,Kilcoy,Provincial,QLD,9,102,10,3,5,2,4,0,0,0
+12-Jan-23 Pinjarra Scarpside,Pinjarra Scarpside,Provincial,WA,8,80,8,3,5,4,1,0,0,0
+11-Jan-23 Belmont,Belmont,Provincial,WA,7,65,6.5,1,4,5,1,0,0,0
+11-Jan-23 Oakbank,Oakbank,Provincial,SA,7,84,8.5,1,4,3,3,0,0,0
+10-Jan-23 Rockhampton,Rockhampton,Provincial,QLD,5,45,4.5,3,3,1,1,0,0,0
+8-Jan-23 Albany,Albany,Provincial,WA,8,96,9.5,3,1,5,0,0,0,0
+8-Jan-23 Sunshine Coast,Sunshine Coast,Provincial,QLD,7,73,7.5,3,1,2,1,0,1,0
+7-Jan-23 Geraldton,Geraldton,Provincial,WA,7,60,6,3,7,3,1,0,0,0
+7-Jan-23 Wyong,Wyong,Provincial,NSW,7,58,6,3,7,4,0,0,0,0
+7-Jan-23 Townsville,Townsville,Provincial,QLD,6,62,6,0,7,3,0,3,0,0
+7-Jan-23 Ipswich,Ipswich,Provincial,QLD,7,60,6,4,7,2,0,0,0,1
+6-Jan-23 Sunshine Coast,Sunshine Coast,Provincial,QLD,8,75,7.5,3,6,4,1,0,0,0
+6-Jan-23 Mackay,Mackay,Provincial,QLD,10,87,8.5,2,6,5,3,0,0,0
+6-Jan-23 Narrogin,Narrogin,Provincial,WA,8,61,6,1,6,3,3,1,0,0
+5-Jan-23 Gatton,Gatton,Provincial,QLD,8,81,8,3,5,4,1,0,0,0
+5-Jan-23 Pinjarra Scarpside,Pinjarra Scarpside,Provincial,WA,7,51,5,2,5,4,1,0,0,0
+4-Jan-23 Belmont,Belmont,Provincial,WA,7,58,6,4,4,3,0,0,0,0
+4-Jan-23 Mount Gambier,Mount Gambier,Provincial,SA,7,61,6,3,4,2,0,0,2,0
+2-Jan-23 Esperance,Esperance,Provincial,WA,7,69,7,2,2,4,1,0,0,0
+2-Jan-23 Cairns,Cairns,Provincial,QLD,8,61,6,2,2,4,1,1,0,0
+2-Jan-23 Murray Bridge,Murray Bridge,Provincial,SA,7,71,7,2,2,2,2,0,0,1
+1-Jan-23 Sunshine Coast,Sunshine Coast,Provincial,QLD,7,77,7.5,5,1,2,0,0,0,0
+31-Dec-22 Toowoomba,Toowoomba,Provincial,QLD,7,69,7,3,7,4,0,0,0,0
+31-Dec-22 Pinjarra,Pinjarra,Provincial,WA,8,80,8,3,7,4,1,0,0,0
+31-Dec-22 Gosford,Gosford,Provincial,NSW,7,66,6.5,2,7,3,1,1,0,0
+31-Dec-22 Beaudesert,Beaudesert,Provincial,QLD,8,77,7.5,2,7,6,0,0,0,0
+30-Dec-22 Mount Barker,Mount Barker,Provincial,WA,7,65,6.5,2,6,3,0,2,0,0
+30-Dec-22 Ipswich,Ipswich,Provincial,QLD,7,59,6,1,6,5,1,0,0,0
+29-Dec-22 Rockhampton,Rockhampton,Provincial,QLD,7,55,5.5,3,5,4,0,0,0,0
+28-Dec-22 Ascot,Ascot,Provincial,WA,7,59,6,2,4,2,2,1,0,0
+28-Dec-22 Gosford,Gosford,Provincial,NSW,7,66,6.5,2.5,4,3,1,0.5,0,0
+28-Dec-22 Strathalbyn,Strathalbyn,Provincial,SA,7,66,6.5,2,4,4,0,1,0,0
+27-Dec-22 Geraldton,Geraldton,Provincial,WA,7,63,6.5,2,3,2,3,0,0,0
+27-Dec-22 Townsville,Townsville,Provincial,QLD,7,51,5,5,3,2,0,0,0,0
+26-Dec-22 Pinjarra,Pinjarra,Provincial,WA,9,89,9,2,2,5,2,0,0,0
+26-Dec-22 Albany,Albany,Provincial,WA,7,59,6,2,2,2,2,1,0,0
+26-Dec-22 Esperance,Esperance,Provincial,WA,7,63,6.5,1,2,3,1,0,2,0
+26-Dec-22 Sunshine Coast,Sunshine Coast,Provincial,QLD,7,70,7,3,2,1,1,1,1,0
+26-Dec-22 Warwick,Warwick,Provincial,QLD,7,77,7.5,1,2,4,1,1,0,0
+26-Dec-22 Newcastle,Newcastle,Provincial,NSW,7,65,6.5,3,2,2,0,2,0,0
+24-Dec-22 Toowoomba,Toowoomba,Provincial,QLD,8,65,6.5,7,7,1,0,0,0,0
+24-Dec-22 Beaudesert,Beaudesert,Provincial,QLD,8,67,6.5,3,7,4,1,0,0,0
+24-Dec-22 Wyong,Wyong,Provincial,NSW,7,75,7.5,1,7,5,1,0,0,0
+23-Dec-22 Sunshine Coast,Sunshine Coast,Provincial,QLD,7,73,7.5,1,6,6,0,0,0,0
+23-Dec-22 Rockhampton,Rockhampton,Provincial,QLD,7,58,6,4,6,2,1,0,0,0
+22-Dec-22 Belmont,Belmont,Provincial,WA,8,81,8,3,5,2,1,2,0,0
+22-Dec-22 Ipswich,Ipswich,Provincial,QLD,8,67,6.5,1,5,5,1,1,0,0
+22-Dec-22 Gosford,Gosford,Provincial,NSW,7,76,7.5,3,5,2,1,1,0,0
+21-Dec-22 Oakbank,Oakbank,Provincial,SA,7,59,6,1,4,6,0,0,0,0
+20-Dec-22 Townsville,Townsville,Provincial,QLD,7,70,7,4,3,3,0,0,0,0
+19-Dec-22 Narrogin,Narrogin,Provincial,WA,8,62,6,2,2,5,1,0,0,0
+18-Dec-22 Geraldton,Geraldton,Provincial,WA,7,69,7,1,1,6,0,0,0,0
+18-Dec-22 Port Lincoln,Port Lincoln,Provincial,SA,9,86,8.5,3,1,4,1,1,0,0
+18-Dec-22 Sunshine Coast,Sunshine Coast,Provincial,QLD,7,56,5.5,2,1,5,0,0,0,0
+18-Dec-22 Alice Springs,Alice Springs,Provincial,NT,6,46,4.5,1,1,4,1,0,0,0
+17-Dec-22 Toowoomba,Toowoomba,Provincial,QLD,6,48,5,4,7,2,0,0,0,0
+17-Dec-22 Gold Coast,Gold Coast,Provincial,QLD,8,66,6.5,5,7,3,0,0,0,0
+17-Dec-22 Mackay,Mackay,Provincial,QLD,6,53,5.5,4,7,2,0,0,0,0
+17-Dec-22 Newcastle,Newcastle,Provincial,NSW,7,71,7,3,7,1,3,0,0,0
+16-Dec-22 Sunshine Coast,Sunshine Coast,Provincial,QLD,8,72,7,5,6,2,1,0,0,0
+16-Dec-22 Morphettville,Morphettville,Provincial,SA,8,77,7.5,4,6,3,1,0,0,0
+16-Dec-22 Esperance,Esperance,Provincial,WA,7,82,8,4,6,3,0,0,0,0
+16-Dec-22 Rockhampton,Rockhampton,Provincial,QLD,8,73,7.5,6,6,1,1,0,0,0
+15-Dec-22 Pinjarra Scarpside,Pinjarra Scarpside,Provincial,WA,8,77,7.5,7,5,1,0,0,0,0
+15-Dec-22 Hawkesbury,Hawkesbury,Provincial,NSW,7,74,7.5,4,5,1,1,1,0,0
+15-Dec-22 Ipswich,Ipswich,Provincial,QLD,7,56,5.5,4,5,2,1,0,0,0
+14-Dec-22 Strathalbyn,Strathalbyn,Provincial,SA,7,74,7.5,2,4,4,0,1,0,0
+14-Dec-22 Wyong,Wyong,Provincial,NSW,7,62,6,4,4,3,0,0,0,0
+13-Dec-22 Kilcoy,Kilcoy,Provincial,QLD,8,71,7,2,3,6,0,0,0,0
+12-Dec-22 Dalby,Dalby,Provincial,QLD,9,86,8.5,4,2,3,1,0,1,0
+11-Dec-22 Pinjarra,Pinjarra,Provincial,WA,10,110,11,4,1,4,2,0,0,0
+11-Dec-22 Sunshine Coast,Sunshine Coast,Provincial,QLD,7,60,6,4,1,2,1,0,0,0
+10-Dec-22 Toowoomba,Toowoomba,Provincial,QLD,7,56,5.5,2,7,3,2,0,0,0
+10-Dec-22 Kembla Grange,Kembla Grange,Provincial,NSW,9,74,7.5,5,7,4,0,0,0,0
+10-Dec-22 Townsville,Townsville,Provincial,QLD,7,51,5,4,7,3,0,0,0,0
+10-Dec-22 Gold Coast,Gold Coast,Provincial,QLD,8,62,6,3,7,5,0,0,0,0
+9-Dec-22 Port Lincoln,Port Lincoln,Provincial,SA,9,85,8.5,3,6,4,1,1,0,0
+9-Dec-22 Albany,Albany,Provincial,WA,8,87,8.5,1,6,4,2,0,1,0
+8-Dec-22 Geraldton,Geraldton,Provincial,WA,9,91,9,2,5,5,2,0,0,0
+8-Dec-22 Cairns,Cairns,Provincial,QLD,8,62,6,3,5,4,0,1,0,0
+8-Dec-22 Wyong,Wyong,Provincial,NSW,7,70,7,3,5,3,0,0,0,1
+7-Dec-22 Ipswich,Ipswich,Provincial,QLD,7,54,5.5,3,4,4,0,0,0,0
+7-Dec-22 Balaklava,Balaklava,Provincial,SA,7,68,7,2,4,4,1,0,0,0
+6-Dec-22 Mackay,Mackay,Provincial,QLD,9,85,8.5,5,3,3,1,0,0,0
+4-Dec-22 Pinjarra,Pinjarra,Provincial,WA,9,116,11.5,1,1,6,1,0,1,0
+4-Dec-22 Hawkesbury,Hawkesbury,Provincial,NSW,7,53,5.5,2,1,2,3,0,0,0
+4-Dec-22 Sunshine Coast,Sunshine Coast,Provincial,QLD,7,63,6.5,2,1,3,2,0,0,0
+4-Dec-22 Alice Springs,Alice Springs,Provincial,NT,6,42,4,4,1,2,0,0,0,0
+3-Dec-22 Toowoomba,Toowoomba,Provincial,QLD,7,59,6,2,7,5,0,0,0,0
+3-Dec-22 Esperance,Esperance,Provincial,WA,7,77,7.5,1,7,4,1,0,1,0
+3-Dec-22 Newcastle,Newcastle,Provincial,NSW,8,73,7.5,2,7,2,3,1,0,0
+3-Dec-22 Gold Coast,Gold Coast,Provincial,QLD,8,68,7,4,7,3,1,0,0,0
+3-Dec-22 Rockhampton,Rockhampton,Provincial,QLD,6,31,3,1,7,5,0,0,0,0
+2-Dec-22 Sunshine Coast,Sunshine Coast,Provincial,QLD,7,45,4.5,4,6,3,0,0,0,0
+2-Dec-22 Mount Gambier,Mount Gambier,Provincial,SA,7,71,7,1,6,5,0,1,0,0
+1-Dec-22 Northam,Northam,Provincial,WA,7,58,6,4,5,1,1,0,0,1
+30-Nov-22 Gosford,Gosford,Provincial,NSW,8,64,6.5,2,4,5,1,0,0,0
+30-Nov-22 Gawler,Gawler,Provincial,SA,7,60,6,6,4,1,0,0,0,0
+29-Nov-22 Townsville,Townsville,Provincial,QLD,8,70,7,2,3,3,2,1,0,0
+27-Nov-22 Newcastle,Newcastle,Provincial,NSW,8,63,6.5,3,1,4,0,1,0,0
+27-Nov-22 Geraldton,Geraldton,Provincial,WA,9,91,9,5,1,2,2,0,0,0
+27-Nov-22 Strathalbyn,Strathalbyn,Provincial,SA,7,74,7.5,1,1,4,1,1,0,0
+27-Nov-22 Sunshine Coast,Sunshine Coast,Provincial,QLD,7,67,6.5,4,1,2,0,1,0,0
+26-Nov-22 Toowoomba,Toowoomba,Provincial,QLD,7,69,7,4,7,2,0,1,0,0
+26-Nov-22 Kembla Grange,Kembla Grange,Provincial,NSW,8,73,7.5,5,7,3,0,0,0,0
+26-Nov-22 Ipswich,Ipswich,Provincial,QLD,7,71,7,4,7,3,0,0,0,0
+26-Nov-22 Alice Springs,Alice Springs,Provincial,NT,5,31,3,2,7,2,0,1,0,0
+26-Nov-22 Kilcoy,Kilcoy,Provincial,QLD,7,68,7,2,7,4,1,0,0,0
+25-Nov-22 Sunshine Coast,Sunshine Coast,Provincial,QLD,7,84,8.5,2,6,3,1,1,0,0
+25-Nov-22 Port Lincoln,Port Lincoln,Provincial,SA,8,76,7.5,4,6,3,1,0,0,0
+25-Nov-22 Mackay,Mackay,Provincial,QLD,8,72,7,4,6,2,2,0,0,0
+25-Nov-22 Mount Barker,Mount Barker,Provincial,WA,8,70,7,2,6,4,2,0,0,0
+24-Nov-22 Cairns,Cairns,Provincial,QLD,8,60,6,2,5,4,2,0,0,0
+24-Nov-22 Northam,Northam,Provincial,WA,7,67,6.5,3,5,2,1,0,0,1
+24-Nov-22 Wyong,Wyong,Provincial,NSW,8,67,6.5,1,5,4,2,0,1,0
+23-Nov-22 Belmont,Belmont,Provincial,WA,8,88,9,2,4,4,0,2,0,0
+23-Nov-22 Balaklava,Balaklava,Provincial,SA,7,68,7,4,4,2,1,0,0,0
+20-Nov-22 Townsville,Townsville,Provincial,QLD,8,83,8.5,4,1,3,1,0,0,0
+20-Nov-22 Belmont,Belmont,Provincial,WA,8,93,9.5,5,1,2,1,0,0,0
+20-Nov-22 Alice Springs,Alice Springs,Provincial,NT,5,35,3.5,1,1,4,0,0,0,0
+19-Nov-22 Toowoomba,Toowoomba,Provincial,QLD,7,59,6,3,7,3,1,0,0,0
+19-Nov-22 Esperance,Esperance,Provincial,WA,6,59,6,0,7,5,1,0,0,0
+19-Nov-22 Gosford,Gosford,Provincial,NSW,8,72,7,4,7,2,1,1,0,0
+19-Nov-22 Gold Coast,Gold Coast,Provincial,QLD,8,64,6.5,2,7,6,0,0,0,0
+18-Nov-22 Ipswich,Ipswich,Provincial,QLD,8,80,8,3,6,5,0,0,0,0
+17-Nov-22 York,York,Provincial,WA,8,71,7,2,5,3,1,2,0,0
+17-Nov-22 Hawkesbury,Hawkesbury,Provincial,NSW,8,80,8,2,5,5,1,0,0,0
+17-Nov-22 Rockhampton,Rockhampton,Provincial,QLD,8,61,6,5,5,3,0,0,0,0
+17-Nov-22 Gawler,Gawler,Provincial,SA,7,76,7.5,1,5,5,0,1,0,0
+16-Nov-22 Northam,Northam,Provincial,WA,7,66,6.5,1,4,5,1,0,0,0
+15-Nov-22 Beaudesert,Beaudesert,Provincial,QLD,8,90,9,2,3,4,2,0,0,0
+15-Nov-22 Newcastle,Newcastle,Provincial,NSW,8,75,7.5,2,3,6,0,0,0,0
+13-Nov-22 Albany,Albany,Provincial,WA,7,62,6,5,1,2,0,0,0,0
+13-Nov-22 Cairns,Cairns,Provincial,QLD,7,56,5.5,4,1,3,0,0,0,0
+12-Nov-22 Toowoomba,Toowoomba,Provincial,QLD,8,71,7,5,7,3,0,0,0,0
+12-Nov-22 Geraldton,Geraldton,Provincial,WA,7,70,7,0,7,5,1,1,0,0
+12-Nov-22 Kembla Grange,Kembla Grange,Provincial,NSW,8,80,8,3,7,4,1,0,0,0
+12-Nov-22 Gold Coast,Gold Coast,Provincial,QLD,8,63,6.5,4,7,4,0,0,0,0
+11-Nov-22 Sunshine Coast,Sunshine Coast,Provincial,QLD,9,88,9,2,6,5,2,0,0,0
+11-Nov-22 Port Lincoln,Port Lincoln,Provincial,SA,9,106,10.5,2,6,3,3,1,0,0
+11-Nov-22 Warwick,Warwick,Provincial,QLD,10,104,10.5,6,6,3,0,1,0,0
+10-Nov-22 Belmont,Belmont,Provincial,WA,8,87,8.5,2,5,6,0,0,0,0
+10-Nov-22 Mackay,Mackay,Provincial,QLD,8,63,6.5,5.5,5,2.5,0,0,0,0
+9-Nov-22 Hawkesbury,Hawkesbury,Provincial,NSW,8,59,6,5,4,2,0,1,0,0
+9-Nov-22 Murray Bridge,Murray Bridge,Provincial,SA,9,94,9.5,4,4,1,4,0,0,0
+8-Nov-22 Gosford,Gosford,Provincial,NSW,8,74,7.5,5,3,2,1,0,0,0
+8-Nov-22 Townsville,Townsville,Provincial,QLD,7,65,6.5,2,3,4,1,0,0,0
+6-Nov-22 York,York,Provincial,WA,9,76,7.5,5,1,2,1,1,0,0
+6-Nov-22 Sunshine Coast,Sunshine Coast,Provincial,QLD,8,67,6.5,4,1,3,1,0,0,0
+6-Nov-22 Gawler,Gawler,Provincial,SA,7,69,7,2,1,4,1,0,0,0
+5-Nov-22 Toowoomba,Toowoomba,Provincial,QLD,7,55,5.5,2,7,4,1,0,0,0
+5-Nov-22 Wyong,Wyong,Provincial,NSW,8,81,8,4,7,2,2,0,0,0
+5-Nov-22 Gold Coast,Gold Coast,Provincial,QLD,8,70,7,3,7,4,1,0,0,0
+5-Nov-22 Alice Springs,Alice Springs,Provincial,NT,5,28,3,2,7,3,0,0,0,0
+4-Nov-22 Albany,Albany,Provincial,WA,7,61,6,1,6,4,1,1,0,0
+4-Nov-22 Rockhampton,Rockhampton,Provincial,QLD,8,56,5.5,5,6,2,0,1,0,0
+3-Nov-22 Hawkesbury,Hawkesbury,Provincial,NSW,9,92,9,3,5,2,3,1,0,0
+3-Nov-22 Ascot,Ascot,Provincial,WA,7,81,8,1,5,1,4,1,0,0
+3-Nov-22 Ipswich,Ipswich,Provincial,QLD,8,77,7.5,4,5,2,2,0,0,0
+2-Nov-22 Port Lincoln,Port Lincoln,Provincial,SA,9,99,10,3,4,6,0,0,0,0
+1-Nov-22 Kembla Grange,Kembla Grange,Provincial,NSW,10,102,10,3,3,4,3,0,0,0
+1-Nov-22 Morphettville,Morphettville,Provincial,SA,9,91,9,2,3,4,1,2,0,0
+1-Nov-22 Geraldton,Geraldton,Provincial,WA,7,70,7,4,3,2,1,0,0,0
+1-Nov-22 Gold Coast,Gold Coast,Provincial,QLD,7,48,5,3,3,3,1,0,0,0
+1-Nov-22 Sunshine Coast,Sunshine Coast,Provincial,QLD,7,73,7.5,4,3,1,2,0,0,0
+30-Oct-22 Cairns,Cairns,Provincial,QLD,8,73,7.5,2,1,5,1,0,0,0
+29-Oct-22 Beaudesert,Beaudesert,Provincial,QLD,6,50,5,1,7,3,2,0,0,0
+29-Oct-22 Gold Coast,Gold Coast,Provincial,QLD,8,62,6,5,7,3,0,0,0,0
+29-Oct-22 Kalgoorlie,Kalgoorlie,Provincial,WA,7,50,5,4,7,3,0,0,0,0
+29-Oct-22 Alice Springs,Alice Springs,Provincial,NT,6,46,4.5,2,7,4,0,0,0,0
+29-Oct-22 Newcastle,Newcastle,Provincial,NSW,8,76,7.5,2,7,3,3,0,0,0
+29-Oct-22 Toowoomba,Toowoomba,Provincial,QLD,7,57,5.5,3,7,2,0,2,0,0
+28-Oct-22 Ipswich,Ipswich,Provincial,QLD,8,69,7,3,6,4,1,0,0,0
+27-Oct-22 Gosford,Gosford,Provincial,NSW,8,66,6.5,4,5,2,1,1,0,0
+27-Oct-22 Northam,Northam,Provincial,WA,8,77,7.5,3,5,3,1,1,0,0
+27-Oct-22 Rockhampton,Rockhampton,Provincial,QLD,7,54,5.5,3,5,4,0,0,0,0
+26-Oct-22 Strathalbyn,Strathalbyn,Provincial,SA,7,70,7,2,4,1,3,1,0,0
+25-Oct-22 Hawkesbury,Hawkesbury,Provincial,NSW,8,52,5,4,3,4,0,0,0,0
+23-Oct-22 Northam,Northam,Provincial,WA,9,86,8.5,3,1,3,2,0,1,0
+23-Oct-22 Sunshine Coast Poly Track,Sunshine Coast Poly Track,Provincial,QLD,7,49,5,4,1,2,1,0,0,0
+22-Oct-22 Gold Coast,Gold Coast,Provincial,QLD,6,40,4,3,7,2,0,1,0,0
+22-Oct-22 Kembla Grange,Kembla Grange,Provincial,NSW,8,69,7,1,7,6,1,0,0,0
+22-Oct-22 Toowoomba,Toowoomba,Provincial,QLD,7,55,5.5,4,7,1,2,0,0,0
+22-Oct-22 Townsville,Townsville,Provincial,QLD,7,56,5.5,4,7,3,0,0,0,0
+21-Oct-22 Gawler,Gawler,Provincial,SA,8,83,8.5,3,6,4,1,0,0,0
+21-Oct-22 Mackay,Mackay,Provincial,QLD,8,64,6.5,2,6,5,1,0,0,0
+21-Oct-22 Sunshine Coast,Sunshine Coast,Provincial,QLD,7,60,6,3,6,3,1,0,0,0
+20-Oct-22 Gatton,Gatton,Provincial,QLD,8,71,7,3,5,3,1,1,0,0
+20-Oct-22 Geraldton,Geraldton,Provincial,WA,7,65,6.5,3,5,3,1,0,0,0
+20-Oct-22 Hawkesbury,Hawkesbury,Provincial,NSW,8,78,8,3,5,4,1,0,0,0
+19-Oct-22 Mount Gambier,Mount Gambier,Provincial,SA,8,73,7.5,3,4,3,2,0,0,0
+18-Oct-22 Cairns,Cairns,Provincial,QLD,7,56,5.5,1,3,4,2,0,0,0
+16-Oct-22 Kalgoorlie,Kalgoorlie,Provincial,WA,7,58,6,2,1,4,0,1,0,0
+16-Oct-22 Alice Springs,Alice Springs,Provincial,NT,5,27,2.5,1,1,3,1,0,0,0
+16-Oct-22 Sunshine Coast,Sunshine Coast,Provincial,QLD,8,67,6.5,3,1,4,1,0,0,0
+15-Oct-22 Gold Coast,Gold Coast,Provincial,QLD,8,64,6.5,4,7,4,0,0,0,0
+15-Oct-22 Newcastle,Newcastle,Provincial,NSW,10,112,11,3,7,4,2,1,0,0
+15-Oct-22 Rockhampton,Rockhampton,Provincial,QLD,6,40,4,2,7,4,0,0,0,0
+15-Oct-22 Toowoomba,Toowoomba,Provincial,QLD,8,64,6.5,5,7,1,2,0,0,0
+14-Oct-22 Kilcoy,Kilcoy,Provincial,QLD,9,83,8.5,5,6,3,1,0,0,0
+14-Oct-22 Murray Bridge,Murray Bridge,Provincial,SA,10,122,12,1,6,6,2,1,0,0
+13-Oct-22 Kembla Grange,Kembla Grange,Provincial,NSW,8,81,8,3,5,2,2,1,0,0
+13-Oct-22 Northam,Northam,Provincial,WA,10,94,9.5,3,5,6,1,0,0,0
+13-Oct-22 Townsville,Townsville,Provincial,QLD,9,84,8.5,3,5,3,1,1,1,0
+12-Oct-22 Balaklava,Balaklava,Provincial,SA,8,91,9,3,4,2,2,1,0,0
+11-Oct-22 Newcastle,Newcastle,Provincial,NSW,8,83,8.5,3,3,3,1,0,1,0
+9-Oct-22 Geraldton,Geraldton,Provincial,WA,7,54,5.5,3,1,2,2,0,0,0
+9-Oct-22 Sunshine Coast,Sunshine Coast,Provincial,QLD,7,65,6.5,1,1,5,0,1,0,0
+8-Oct-22 Gold Coast,Gold Coast,Provincial,QLD,9,76,7.5,3,7,6,0,0,0,0
+8-Oct-22 Alice Springs,Alice Springs,Provincial,NT,5,28,3,2,7,3,0,0,0,0
+8-Oct-22 Warwick,Warwick,Provincial,QLD,9,87,8.5,3,7,3,3,0,0,0
+7-Oct-22 Sunshine Coast,Sunshine Coast,Provincial,QLD,7,56,5.5,3,6,4,0,0,0,0
+6-Oct-22 Townsville,Townsville,Provincial,QLD,7,62,6,3,5,2,2,0,0,0
+6-Oct-22 York,York,Provincial,WA,9,76,7.5,1,5,4,0,3,1,0
+5-Oct-22 Northam,Northam,Provincial,WA,4,27,2.5,0,4,1,3,0,0,0
+4-Oct-22 Rockhampton,Rockhampton,Provincial,QLD,7,50,5,4,3,2,1,0,0,0
+3-Oct-22 Beaudesert,Beaudesert,Provincial,QLD,8,58,6,2,2,6,0,0,0,0
+3-Oct-22 Gawler,Gawler,Provincial,SA,8,89,9,3,2,4,1,0,0,0
+2-Oct-22 Northam,Northam,Provincial,WA,9,84,8.5,2,1,6,1,0,0,0
+2-Oct-22 Sunshine Coast,Sunshine Coast,Provincial,QLD,9,97,9.5,2,1,6,1,0,0,0
+1-Oct-22 Gold Coast,Gold Coast,Provincial,QLD,8,60,6,3,7,5,0,0,0,0
+1-Oct-22 Mackay,Mackay,Provincial,QLD,6,57,5.5,1,7,4,1,0,0,0
+1-Oct-22 Toowoomba,Toowoomba,Provincial,QLD,7,63,6.5,2,7,2,3,0,0,0
+30-Sep-22 Townsville,Townsville,Provincial,QLD,8,87,8.5,2,6,5,0,1,0,0
+29-Sep-22 Gatton,Gatton,Provincial,QLD,7,72,7,2,5,4,1,0,0,0
+29-Sep-22 Hawkesbury,Hawkesbury,Provincial,NSW,9,66,6.5,4,5,4,0,1,0,0
+29-Sep-22 Kalgoorlie,Kalgoorlie,Provincial,WA,8,82,8,3,5,4,0,1,0,0
+28-Sep-22 Geraldton,Geraldton,Provincial,WA,7,59,6,3,4,1,1,2,0,0
+27-Sep-22 Yeppoon,Yeppoon,Provincial,QLD,6,49,5,3,3,1,1,1,0,0
+25-Sep-22 Alice Springs,Alice Springs,Provincial,NT,6,41,4,1,1,5,0,0,0,0
+25-Sep-22 Northam,Northam,Provincial,WA,8,70,7,2,1,4,1,1,0,0
+25-Sep-22 Sunshine Coast,Sunshine Coast,Provincial,QLD,8,74,7.5,4,1,2,2,0,0,0
+24-Sep-22 Gold Coast,Gold Coast,Provincial,QLD,8,53,5.5,5,7,2,1,0,0,0
+24-Sep-22 Newcastle,Newcastle,Provincial,NSW,8,84,8.5,3,7,4,1,0,0,0
+23-Sep-22 Sunshine Coast,Sunshine Coast,Provincial,QLD,7,73,7.5,3,6,1,2,1,0,0
+22-Sep-22 Hawkesbury,Hawkesbury,Provincial,NSW,9,72,7,1,5,7,1,0,0,0
+22-Sep-22 Mackay,Mackay,Provincial,QLD,7,59,6,3,5,2,2,0,0,0
+21-Sep-22 Gawler,Gawler,Provincial,SA,7,70,7,1,4,3,1,1,1,0
+18-Sep-22 Kalgoorlie,Kalgoorlie,Provincial,WA,8,86,8.5,3,1,4,0,1,0,0
+18-Sep-22 Sunshine Coast,Sunshine Coast,Provincial,QLD,8,85,8.5,3,1,2,2,1,0,0
+17-Sep-22 Dalby,Dalby,Provincial,QLD,10,94,9.5,4,7,4,2,0,0,0
+17-Sep-22 Gatton,Gatton,Provincial,QLD,10,101,10,2,7,6,2,0,0,0
+17-Sep-22 Newcastle,Newcastle,Provincial,NSW,8,86,8.5,2,7,3,3,0,0,0
+14-Jan-23 Ipswich,Ipswich,Provincial,QLD,8,73,7.5,2,7,5,1,0,0,0
+14-Jan-23 Kembla Grange,Kembla Grange,Provincial,NSW,7,74,7.5,3,7,2,2,0,0,0
+14-Jan-23 Warwick,Warwick,Provincial,QLD,8,87,8.5,3,7,4,1,0,0,0
+15-Jan-23 Geraldton,Geraldton,Provincial,WA,7,63,6.5,4,1,1,1,1,0,0
+15-Jan-23 Strathalbyn,Strathalbyn,Provincial,SA,8,96,9.5,5,1,1,1,0,1,0
+15-Jan-23 Sunshine Coast,Sunshine Coast,Provincial,QLD,8,77,7.5,2,1,3,3,0,0,0
+17-Jan-23 Newcastle,Newcastle,Provincial,NSW,7,63,6.5,2,3,4,1,0,0,0
+18-Jan-23 Oakbank,Oakbank,Provincial,SA,4,33,3.5,1,4,3,0,0,0,0
+18-Jan-23 Wyong,Wyong,Provincial,NSW,7,59,6,1,4,5,1,0,0,0
+19-Jan-23 Pinjarra Scarpside,Pinjarra Scarpside,Provincial,WA,8,88,9,2,5,3,3,0,0,0
+19-Jan-23 Rockhampton,Rockhampton,Provincial,QLD,9,65,6.5,6,5,3,0,0,0,0
+20-Jan-23 Dalby,Dalby,Provincial,QLD,10,99,10,4,6,5,1,0,0,0
+20-Jan-23 Esperance,Esperance,Provincial,WA,7,72,7,1,6,2,2,1,1,0
+20-Jan-23 Sunshine Coast,Sunshine Coast,Provincial,QLD,8,71,7,3,6,4,1,0,0,0
+21-Jan-23 Gatton,Gatton,Provincial,QLD,8,84,8.5,3,7,3,0,1,1,0
+21-Jan-23 Kembla Grange,Kembla Grange,Provincial,NSW,7,70,7,4,7,2,1,0,0,0
+21-Jan-23 Alice Springs,Alice Springs,Provincial,NT,5,37,3.5,2,7,3,0,0,0,0
+21-Jan-23 Townsville,Townsville,Provincial,QLD,6,52,5,3,7,2,0,1,0,0
+22-Jan-23 Mount Barker,Mount Barker,Provincial,WA,8,80,8,2,1,5,1,0,0,0
+22-Jan-23 Mount Gambier,Mount Gambier,Provincial,SA,7,64,6.5,0,1,4,3,0,0,0
+22-Jan-23 Sunshine Coast,Sunshine Coast,Provincial,QLD,7,59,6,3,1,2,0,1,0,1
+22-Jan-23 Wyong,Wyong,Provincial,NSW,7,56,5.5,3,1,3,0,1,0,0
+25-Jan-23 Geraldton,Geraldton,Provincial,WA,8,70,7,5,4,3,0,0,0,0
+25-Jan-23 Gosford,Gosford,Provincial,NSW,7,64,6.5,0,4,4,2,1,0,0
+26-Jan-23 Beaudesert,Beaudesert,Provincial,QLD,8,78,8,3,5,3,2,0,0,0
+26-Jan-23 Belmont,Belmont,Provincial,WA,9,99,10,4,5,5,0,0,0,0
+26-Jan-23 Murray Bridge,Murray Bridge,Provincial,SA,7,80,8,1,5,5,1,0,0,0
+27-Jan-23 Rockhampton,Rockhampton,Provincial,QLD,7,52,5,1,6,5,1,0,0,0
+28-Jan-23 Albany,Albany,Provincial,WA,8,73,7.5,3,7,4,1,0,0,0
+28-Jan-23 Newcastle,Newcastle,Provincial,NSW,8,70,7,4,7,2,2,0,0,0
+28-Jan-23 Alice Springs,Alice Springs,Provincial,NT,4,30,3,1,7,2,1,0,0,0
+28-Jan-23 Gold Coast Poly,Gold Coast Poly,Provincial,QLD,7,53,5.5,4,7,3,0,0,0,0
+29-Jan-23 Pinjarra Scarpside,Pinjarra Scarpside,Provincial,WA,9,92,9,2,1,5,2,0,0,0
+29-Jan-23 Strathalbyn,Strathalbyn,Provincial,SA,8,84,8.5,3,1,2,3,0,0,0
+29-Jan-23 Townsville,Townsville,Provincial,QLD,8,63,6.5,0,1,5,2,1,0,0
+13-Jan-23 Launceston,Launceston,Metro,TAS,8,68,7,4,6,4,0,0,0,0
+11-Jan-23 Devonport Synthetic,Devonport Synthetic,Metro,TAS,9,86,8.5,4,4,3,2,0,0,0
+11-Jan-23 Doomben,Doomben,Metro,QLD,9,92,9,3,4,3,3,0,0,0
+11-Jan-23 Sandown Lakeside,Sandown Lakeside,Metro,VIC,8,69,7,3,4,2,2,1,0,0
+11-Jan-23 Warwick Farm,Warwick Farm,Metro,NSW,7,63,6.5,4,4,3,0,0,0,0
+7-Jan-23 Rosehill,Rosehill,Metro,NSW,10,90,9,4,7,5,1,0,0,0
+7-Jan-23 Sandown Hillside,Sandown Hillside,Metro,VIC,9,88,9,1,7,6,2,0,0,0
+7-Jan-23 Ascot,Ascot,Metro,WA,9,79,8,3,7,4,2,0,0,0
+7-Jan-23 Gawler,Gawler,Metro,SA,9,87,8.5,6,7,2,0,0,1,0
+7-Jan-23 Gold Coast,Gold Coast,Metro,QLD,9,109,11,2,7,2,5,0,0,0
+6-Jan-23 Canterbury,Canterbury,Metro,NSW,8,60,6,2,6,6,0,0,0,0
+6-Jan-23 Hobart,Hobart,Metro,TAS,8,74,7.5,2,6,5,1,0,0,0
+4-Jan-23 Warwick Farm,Warwick Farm,Metro,NSW,7,65,6.5,2,4,3,0,2,0,0
+4-Jan-23 Eagle Farm,Eagle Farm,Metro,QLD,8,79,8,4,4,3,1,0,0,0
+1-Jan-23 Canterbury,Canterbury,Metro,NSW,8,73,7.5,3,1,2,3,0,0,0
+1-Jan-23 Flemington,Flemington,Metro,VIC,8,77,7.5,4,1,3,1,0,0,0
+1-Jan-23 Ascot,Ascot,Metro,WA,8,73,7.5,3,1,4,1,0,0,0
+1-Jan-23 Longford,Longford,Metro,TAS,7,56,5.5,2,1,4,1,0,0,0
+31-Dec-22 Morphettville,Morphettville,Metro,SA,9,70,7,5,7,2,0,2,0,0
+31-Dec-22 Randwick,Randwick,Metro,NSW,10,107,10.5,1,7,7,2,0,0,0
+31-Dec-22 Darwin,Darwin,Metro,NT,8,65,6.5,0,7,4,4,0,0,0
+31-Dec-22 Moonee Valley,Moonee Valley,Metro,VIC,9,92,9,4,7,2.5,2.5,0,0,0
+30-Dec-22 Hobart,Hobart,Metro,TAS,9,85,8.5,5,6,3,0,0,1,0
+29-Dec-22 Belmont,Belmont,Metro,WA,8,75,7.5,3,5,4,1,0,0,0
+28-Dec-22 Eagle Farm,Eagle Farm,Metro,QLD,8,67,6.5,4,4,2,2,0,0,0
+26-Dec-22 Randwick,Randwick,Metro,NSW,8,94,9.5,2,2,2,3,1,0,0
+26-Dec-22 Sandown Hillside,Sandown Hillside,Metro,VIC,8,74,7.5,5,2,3,0,0,0,0
+26-Dec-22 Morphettville,Morphettville,Metro,SA,9,68,7,5,2,2,1,1,0,0
+24-Dec-22 Randwick,Randwick,Metro,NSW,10,99,10,2,7,5,2,1,0,0
+24-Dec-22 Moonee Valley,Moonee Valley,Metro,VIC,9,83,8.5,3,7,4,1,0,1,0
+24-Dec-22 Murray Bridge,Murray Bridge,Metro,SA,9,74,7.5,2,7,7,0,0,0,0
+24-Dec-22 Doomben,Doomben,Metro,QLD,9,88,9,4,7,5,0,0,0,0
+24-Dec-22 Ascot,Ascot,Metro,WA,9,95,9.5,2,7,6,1,0,0,0
+23-Dec-22 Devonport Synthetic,Devonport Synthetic,Metro,TAS,8,76,7.5,2,6,5,0,1,0,0
+21-Dec-22 Sandown Lakeside,Sandown Lakeside,Metro,VIC,8,79,8,1,4,6,1,0,0,0
+21-Dec-22 Warwick Farm,Warwick Farm,Metro,NSW,7,67,6.5,3,4,3,0,1,0,0
+21-Dec-22 Eagle Farm,Eagle Farm,Metro,QLD,8,68,7,3,4,2,2,1,0,0
+21-Dec-22 Ascot,Ascot,Metro,WA,8,73,7.5,0,4,6,0,2,0,0
+18-Dec-22 Hobart,Hobart,Metro,TAS,8,70,7,5,1,2,1,0,0,0
+17-Dec-22 Randwick,Randwick,Metro,NSW,10,112,11,3,7,3,3,0,1,0
+17-Dec-22 Flemington,Flemington,Metro,VIC,9,98,10,3,7,4,2,0,0,0
+17-Dec-22 Ascot,Ascot,Metro,WA,9,103,10.5,4,7,4,1,0,0,0
+17-Dec-22 Gawler,Gawler,Metro,SA,9,76,7.5,4,7,4,0,1,0,0
+17-Dec-22 Eagle Farm,Eagle Farm,Metro,QLD,9,73,7.5,3,7,4,2,0,0,0
+16-Dec-22 Moonee Valley,Moonee Valley,Metro,VIC,8,76,7.5,2,6,5,1,0,0,0
+16-Dec-22 Canterbury,Canterbury,Metro,NSW,8,67,6.5,2,6,4,2,0,0,0
+14-Dec-22 Launceston,Launceston,Metro,TAS,9,92,9,5,4,3,1,0,0,0
+14-Dec-22 Sandown Lakeside,Sandown Lakeside,Metro,VIC,8,76,7.5,3,4,5,0,0,0,0
+14-Dec-22 Belmont,Belmont,Metro,WA,7,62,6,3,4,4,0,0,0,0
+14-Dec-22 Doomben,Doomben,Metro,QLD,6,52,5,2,4,3,0,1,0,0
+10-Dec-22 Randwick,Randwick,Metro,NSW,10,125,12.5,3,7,2,4,1,0,0
+10-Dec-22 Sandown Hillside,Sandown Hillside,Metro,VIC,9,95,9.5,3,7,6,0,0,0,0
+10-Dec-22 Ascot,Ascot,Metro,WA,10,104,10.5,4,7,3,3,0,0,0
+10-Dec-22 Morphettville,Morphettville,Metro,SA,9,87,8.5,3,7,4,2,0,0,0
+10-Dec-22 Eagle Farm,Eagle Farm,Metro,QLD,9,99,10,3,7,4,1,0,1,0
+9-Dec-22 Moonee Valley,Moonee Valley,Metro,VIC,8,68,7,2,6,2,3,1,0,0
+9-Dec-22 Canterbury,Canterbury,Metro,NSW,8,71,7,1,6,6,1,0,0,0
+9-Dec-22 Devonport Synthetic,Devonport Synthetic,Metro,TAS,8,70,7,3,6,3,2,0,0,0
+9-Dec-22 Doomben,Doomben,Metro,QLD,8,87,8.5,2,6,4,1,1,0,0
+9-Dec-22 Darwin,Darwin,Metro,NT,6,42,4,1,6,3,2,0,0,0
+7-Dec-22 Launceston,Launceston,Metro,TAS,8,71,7,3,4,3,1,0,1,0
+7-Dec-22 Sandown Hillside,Sandown Hillside,Metro,VIC,8,79,8,6,4,2,0,0,0,0
+7-Dec-22 Warwick Farm,Warwick Farm,Metro,NSW,7,60,6,0,4,6,1,0,0,0
+7-Dec-22 Ascot,Ascot,Metro,WA,8,84,8.5,3,4,1,2,0,2,0
+3-Dec-22 Rosehill,Rosehill,Metro,NSW,10,108,11,4,7,2,3,1,0,0
+3-Dec-22 Darwin,Darwin,Metro,NT,6,40,4,2,7,3,1,0,0,0
+3-Dec-22 Pakenham,Pakenham,Metro,VIC,9,103,10.5,4,7,4,1,0,0,0
+3-Dec-22 Morphettville Parks,Morphettville Parks,Metro,SA,9,72,7,6,7,2,0,1,0,0
+3-Dec-22 Ascot,Ascot,Metro,WA,9,100,10,3,7,4,2,0,0,0
+3-Dec-22 Doomben,Doomben,Metro,QLD,9,97,9.5,4,7,2,2,1,0,0
+2-Dec-22 Moonee Valley,Moonee Valley,Metro,VIC,8,79,8,2,6,4,1,0,1,0
+2-Dec-22 Kensington,Kensington,Metro,NSW,7,58,6,1,6,3,2,1,0,0
+30-Nov-22 Belmont,Belmont,Metro,WA,8,75,7.5,3,4,4,1,0,0,0
+30-Nov-22 Gold Coast,Gold Coast,Metro,QLD,8,68,7,5,4,1,1,1,0,0
+27-Nov-22 Hobart,Hobart,Metro,TAS,7,71,7,2,1,2,2,1,0,0
+26-Nov-22 Rosehill,Rosehill,Metro,NSW,10,113,11.5,0,7,6,2,1,1,0
+26-Nov-22 Caulfield,Caulfield,Metro,VIC,9,95,9.5,3,7,3,3,0,0,0
+26-Nov-22 Morphettville,Morphettville,Metro,SA,9,90,9,1,7,7,1,0,0,0
+26-Nov-22 Ascot,Ascot,Metro,WA,9,108,11,3,7,3,3,0,0,0
+26-Nov-22 Gold Coast,Gold Coast,Metro,QLD,9,90,9,3,7,5,1,0,0,0
+25-Nov-22 Canterbury,Canterbury,Metro,NSW,8,69,7,1,6,4,1,1,1,0
+23-Nov-22 Launceston,Launceston,Metro,TAS,8,74,7.5,4,4,4,0,0,0,0
+23-Nov-22 Warwick Farm,Warwick Farm,Metro,NSW,7,69,7,0,4,5,1,1,0,0
+23-Nov-22 Sandown Lakeside,Sandown Lakeside,Metro,VIC,8,81,8,3,4,3,1,0,1,0
+19-Nov-22 Kembla Grange,Kembla Grange,Metro,NSW,10,129,13,4,7,4,1,1,0,0
+19-Nov-22 Ballarat,Ballarat,Metro,VIC,10,98,10,1,7,6,3,0,0,0
+19-Nov-22 Morphettville Parks,Morphettville Parks,Metro,SA,9,89,9,1,7,6,2,0,0,0
+19-Nov-22 Darwin,Darwin,Metro,NT,5,29,3,3,7,2,0,0,0,0
+19-Nov-22 Ascot,Ascot,Metro,WA,9,116,11.5,6,7,2,1,0,0,0
+19-Nov-22 Sunshine Coast,Sunshine Coast,Metro,QLD,9,90,9,2,7,5,1,1,0,0
+18-Nov-22 Moonee Valley,Moonee Valley,Metro,VIC,8,73,7.5,3,6,4,0,1,0,0
+16-Nov-22 Launceston,Launceston,Metro,TAS,9,75,7.5,7,4,2,0,0,0,0
+16-Nov-22 Rosehill,Rosehill,Metro,NSW,7,62,6,2,4,4,1,0,0,0
+16-Nov-22 Doomben,Doomben,Metro,QLD,8,92,9,2,4,3,2,1,0,0
+16-Nov-22 Sandown Lakeside,Sandown Lakeside,Metro,VIC,8,67,6.5,7,4,1,0,0,0,0
+16-Nov-22 Morphettville,Morphettville,Metro,SA,9,97,9.5,2,4,3,3,1,0,0
+13-Nov-22 Hobart,Hobart,Metro,TAS,8,71,7,3,1,4,0,1,0,0
+12-Nov-22 Newcastle,Newcastle,Metro,NSW,10,116,11.5,3,7,1,5,1,0,0
+12-Nov-22 Cranbourne,Cranbourne,Metro,VIC,9,88,9,4,7,2,2,1,0,0
+12-Nov-22 Ascot,Ascot,Metro,WA,9,119,12,2,7,5,0,2,0,0
+12-Nov-22 Darwin,Darwin,Metro,NT,5,37,3.5,1,7,3,1,0,0,0
+12-Nov-22 Doomben,Doomben,Metro,QLD,9,79,8,3,7,5,1,0,0,0
+11-Nov-22 Moonee Valley,Moonee Valley,Metro,VIC,8,73,7.5,3,6,3,2,0,0,0
+11-Nov-22 Canterbury,Canterbury,Metro,NSW,8,68,7,2,6,5,0,0,1,0
+9-Nov-22 Launceston,Launceston,Metro,TAS,8,65,6.5,2.5,4,2.5,2,0,0,1
+9-Nov-22 Ascot,Ascot,Metro,WA,8,73,7.5,4,4,3,1,0,0,0
+9-Nov-22 Ipswich,Ipswich,Metro,QLD,8,70,7,3,4,4,0,1,0,0
+5-Nov-22 Rosehill,Rosehill,Metro,NSW,10,106,10.5,5,7,4,1,0,0,0
+5-Nov-22 Flemington,Flemington,Metro,VIC,9,115,11.5,4,7,3,0,2,0,0
+5-Nov-22 Ascot,Ascot,Metro,WA,9,90,9,4,7,4,1,0,0,0
+5-Nov-22 Morphettville Parks,Morphettville Parks,Metro,SA,9,88,9,3,7,5,1,0,0,0
+5-Nov-22 Doomben,Doomben,Metro,QLD,9,75,7.5,3,7,5,1,0,0,0
+3-Nov-22 Flemington,Flemington,Metro,VIC,9,123,12.5,6,5,0,1,2,0,0
+2-Nov-22 Launceston,Launceston,Metro,TAS,8,60,6,2,4,4,2,0,0,0
+1-Nov-22 Randwick,Randwick,Metro,NSW,10,133,13.5,3,3,4,2,1,0,0
+1-Nov-22 Darwin,Darwin,Metro,NT,7,55,5.5,2,3,5,0,0,0,0
+1-Nov-22 Eagle Farm,Eagle Farm,Metro,QLD,9,82,8,3,3,3,3,0,0,0
+1-Nov-22 Flemington,Flemington,Metro,VIC,10,138,14,1,3,2,2,5,0,0
+1-Nov-22 Ascot,Ascot,Metro,WA,9,93,9.5,4,3,3,2,0,0,0
+1-Nov-22 Hobart,Hobart,Metro,TAS,7,50,5,4,3,3,0,0,0,0
+29-Oct-22 Ascot,Ascot,Metro,WA,9,96,9.5,3,7,5,1,0,0,0
+29-Oct-22 Eagle Farm,Eagle Farm,Metro,QLD,10,89,9,6,7,4,0,0,0,0
+29-Oct-22 Flemington,Flemington,Metro,VIC,9,122,12,3,7,2,2,2,0,0
+29-Oct-22 Morphettville,Morphettville,Metro,SA,10,90,9,1,7,8,1,0,0,0
+29-Oct-22 Rosehill,Rosehill,Metro,NSW,10,128,13,1,7,7,1,1,0,0
+28-Oct-22 Moonee Valley,Moonee Valley,Metro,VIC,9,73,7.5,3,6,5,1,0,0,0
+26-Oct-22 Ascot,Ascot,Metro,WA,8,78,8,3,4,5,0,0,0,0
+26-Oct-22 Eagle Farm,Eagle Farm,Metro,QLD,8,82,8,6,4,2,0,0,0,0
+26-Oct-22 Kensington,Kensington,Metro,NSW,6,51,5,4,4,2,0,0,0,0
+26-Oct-22 Launceston,Launceston,Metro,TAS,8,67,6.5,0,4,4,4,0,0,0
+22-Oct-22 Ascot,Ascot,Metro,WA,9,94,9.5,3,7,3,2,1,0,0
+22-Oct-22 Darwin,Darwin,Metro,NT,5,29,3,1,7,4,0,0,0,0
+22-Oct-22 Doomben,Doomben,Metro,QLD,10,83,8.5,5,7,3,1,1,0,0
+22-Oct-22 Morphettville,Morphettville,Metro,SA,10,103,10.5,8,7,1,0,1,0,0
+22-Oct-22 Randwick,Randwick,Metro,NSW,10,108,11,5,7,3,0,2,0,0
+22-Oct-22 Moonee Valley,Moonee Valley,Metro,VIC,11,100,10,4,7,6,1,0,0,0
+21-Oct-22 Launceston,Launceston,Metro,TAS,10,85,8.5,4,6,3,2,0,1,0
+21-Oct-22 Moonee Valley,Moonee Valley,Metro,VIC,5,42,4,0,6,4,1,0,0,0
+19-Oct-22 Ascot,Ascot,Metro,WA,9,98,10,2,4,5,1,1,0,0
+19-Oct-22 Ipswich,Ipswich,Metro,QLD,8,70,7,2,4,3,2,1,0,0
+19-Oct-22 Warwick Farm,Warwick Farm,Metro,NSW,8,77,7.5,4,4,3,1,0,0,0
+15-Oct-22 Ascot,Ascot,Metro,WA,9,106,10.5,3,7,5,1,0,0,0
+15-Oct-22 Caulfield,Caulfield,Metro,VIC,10,106,10.5,2,7,7,1,0,0,0
+15-Oct-22 Darwin,Darwin,Metro,NT,6,47,4.5,2,7,3,1,0,0,0
+15-Oct-22 Eagle Farm,Eagle Farm,Metro,QLD,10,100,10,3,7,6,1,0,0,0
+15-Oct-22 Hobart,Hobart,Metro,TAS,7,54,5.5,1,7,6,0,0,0,0
+15-Oct-22 Morphettville Parks,Morphettville Parks,Metro,SA,9,75,7.5,5,7,3,1,0,0,0
+15-Oct-22 Randwick,Randwick,Metro,NSW,10,137,13.5,3,7,3,1,2,1,0
+12-Oct-22 Ascot,Ascot,Metro,WA,10,119,12,3,4,5,1,1,0,0
+12-Oct-22 Caulfield,Caulfield,Metro,VIC,9,92,9,3,4,3,2,0,1,0
+12-Oct-22 Ipswich,Ipswich,Metro,QLD,9,82,8,4,4,2,2,1,0,0
+12-Oct-22 Launceston,Launceston,Metro,TAS,8,79,8,0,4,4,3,0,1,0
+12-Oct-22 Warwick Farm,Warwick Farm,Metro,NSW,9,77,7.5,4,4,3,1,1,0,0
+8-Oct-22 Ascot,Ascot,Metro,WA,10,108,11,0,7,8,2,0,0,0
+8-Oct-22 Caulfield,Caulfield,Metro,VIC,10,119,12,6,7,3,1,0,0,0
+8-Oct-22 Eagle Farm,Eagle Farm,Metro,QLD,10,97,9.5,4,7,4,2,0,0,0
+8-Oct-22 Morphettville,Morphettville,Metro,SA,10,118,12,2,7,5,3,0,0,0
+8-Oct-22 Randwick,Randwick,Metro,NSW,6,57,5.5,3,7,3,0,0,0,0
+5-Oct-22 Canterbury,Canterbury,Metro,NSW,8,48,5,1,4,7,0,0,0,0
+5-Oct-22 Ipswich,Ipswich,Metro,QLD,8,81,8,1,4,4,3,0,0,0
+5-Oct-22 Launceston,Launceston,Metro,TAS,8,87,8.5,3,4,4,0,1,0,0
+3-Oct-22 Warwick Farm,Warwick Farm,Metro,NSW,8,62,6,2,2,4,2,0,0,0
+1-Oct-22 Darwin,Darwin,Metro,NT,6,48,5,1,7,4,1,0,0,0
+1-Oct-22 Eagle Farm,Eagle Farm,Metro,QLD,9,84,8.5,2,7,5,1,1,0,0
+1-Oct-22 Flemington,Flemington,Metro,VIC,9,103,10.5,5,7,2,1,1,0,0
+1-Oct-22 Kalgoorlie,Kalgoorlie,Metro,WA,9,95,9.5,1,7,3,4,1,0,0
+1-Oct-22 Morphettville Parks,Morphettville Parks,Metro,SA,10,108,11,5,7,2,2,1,0,0
+1-Oct-22 Randwick,Randwick,Metro,NSW,10,102,10,2,7,6.5,1.5,0,0,0
+30-Sep-22 Moonee Valley,Moonee Valley,Metro,VIC,10,89,9,4,6,3,1,2,0,0
+28-Sep-22 Rosehill,Rosehill,Metro,NSW,7,90,9,2,4,3,2,0,0,0
+28-Sep-22 Sunshine Coast,Sunshine Coast,Metro,QLD,8,94,9.5,2,4,5,1,0,0,0
+25-Sep-22 Devonport Synthetic,Devonport Synthetic,Metro,TAS,9,75,7.5,5,1,3,1,0,0,0
+25-Sep-22 Sandown Hillside,Sandown Hillside,Metro,VIC,9,109,11,2,1,6,0,1,0,0
+24-Sep-22 Belmont,Belmont,Metro,WA,9,83,8.5,4,7,3.5,1.5,0,0,0
+24-Sep-22 Mornington,Mornington,Metro,VIC,8,74,7.5,4,7,3,0,1,0,0
+24-Sep-22 Morphettville Parks,Morphettville Parks,Metro,SA,9,84,8.5,1,7,5,2,1,0,0
+24-Sep-22 Rosehill,Rosehill,Metro,NSW,10,123,12.5,1,7,6,3,0,0,0
+24-Sep-22 Toowoomba,Toowoomba,Metro,QLD,9,105,10.5,3,7,4,2,0,0,0
+23-Sep-22 Moonee Valley,Moonee Valley,Metro,VIC,8,81,8,1,6,6,0,1,0,0
+21-Sep-22 Belmont,Belmont,Metro,WA,8,75,7.5,3,4,3,1,1,0,0
+21-Sep-22 Canterbury,Canterbury,Metro,NSW,7,61,6,2,4,4,1,0,0,0
+21-Sep-22 Doomben,Doomben,Metro,QLD,8,73,7.5,4,4,2,2,0,0,0
+18-Sep-22 Devonport Synthetic,Devonport Synthetic,Metro,TAS,9,81,8,2,1,7,0,0,0,0
+18-Sep-22 Flemington,Flemington,Metro,VIC,8,86,8.5,6,1,2,0,0,0,0
+17-Sep-22 Gold Coast,Gold Coast,Metro,QLD,9,76,7.5,3,7,3,1,2,0,0
+17-Sep-22 Belmont,Belmont,Metro,WA,9,86,8.5,5,7,2,1,1,0,0
+17-Sep-22 Caulfield,Caulfield,Metro,VIC,9,98,10,1,7,4.5,3.5,0,0,0
+17-Sep-22 Morphettville,Morphettville,Metro,SA,9,76,7.5,4,7,3,1,1,0,0
+17-Sep-22 Randwick,Randwick,Metro,NSW,10,112,11,5,7,3,1,1,0,0
+14-Jan-23 Gold Coast,Gold Coast,Metro,QLD,2,28,3,1,7,1,0,0,0,0
+14-Jan-23 Ascot,Ascot,Metro,WA,10,102,10,5,7,2,2,1,0,0
+14-Jan-23 Darwin,Darwin,Metro,NT,6,52,5,2,7,3,0,1,0,0
+14-Jan-23 Flemington,Flemington,Metro,VIC,9,85,8.5,3,7,6,0,0,0,0
+14-Jan-23 Murray Bridge,Murray Bridge,Metro,SA,2,17,1.5,0,7,0,2,0,0,0
+14-Jan-23 Rosehill,Rosehill,Metro,NSW,10,103,10.5,3,7,6,1,0,0,0
+18-Jan-23 Belmont,Belmont,Metro,WA,7,74,7.5,2,4,3,2,0,0,0
+18-Jan-23 Ipswich,Ipswich,Metro,QLD,8,73,7.5,2,4,5,0,0,1,0
+18-Jan-23 Launceston,Launceston,Metro,TAS,9,73,7.5,2,4,7,0,0,0,0
+18-Jan-23 Sandown Hillside,Sandown Hillside,Metro,VIC,8,69,7,5,4,2,1,0,0,0
+19-Jan-23 Gold Coast,Gold Coast,Metro,QLD,8,109,11,2,5,3,0,3,0,0
+20-Jan-23 Canterbury,Canterbury,Metro,NSW,7,52,5,1,6,6,0,0,0,0
+20-Jan-23 Flemington,Flemington,Metro,VIC,7,82,8,4,6,2,1,0,0,0
+20-Jan-23 Murray Bridge,Murray Bridge,Metro,SA,10,85,8.5,3,6,6,0,1,0,0
+21-Jan-23 Ascot,Ascot,Metro,WA,9,83,8.5,3,7,4,1,1,0,0
+21-Jan-23 Doomben,Doomben,Metro,QLD,9,89,9,4,7,2,2,1,0,0
+21-Jan-23 Gawler,Gawler,Metro,SA,9,78,8,4,7,3,1,1,0,0
+21-Jan-23 Randwick,Randwick,Metro,NSW,10,107,10.5,1,7,4,4,1,0,0
+21-Jan-23 Moonee Valley,Moonee Valley,Metro,VIC,9,83,8.5,5,7,3,1,0,0,0
+22-Jan-23 Hobart,Hobart,Metro,TAS,9,77,7.5,1,1,5,2,1,0,0
+25-Jan-23 Doomben,Doomben,Metro,QLD,9,91,9,3,4,2,2,1,0,1
+26-Jan-23 Darwin,Darwin,Metro,NT,6,45,4.5,1,5,5,0,0,0,0
+26-Jan-23 Sandown Hillside,Sandown Hillside,Metro,VIC,8,85,8.5,6,5,1,1,0,0,0
+26-Jan-23 Warwick Farm,Warwick Farm,Metro,NSW,8,80,8,1,5,4,1,2,0,0
+27-Jan-23 Launceston,Launceston,Metro,TAS,9,98,10,4,6,4,0,0,0,1
+28-Jan-23 Ascot,Ascot,Metro,WA,9,72,7,4,7,4,0,0,0,1
+28-Jan-23 Morphettville,Morphettville,Metro,SA,9,91,9,5,7,0,3,1,0,0
+28-Jan-23 Sunshine Coast,Sunshine Coast,Metro,QLD,9,84,8.5,4,7,3,2,0,0,0
+28-Jan-23 Rosehill,Rosehill,Metro,NSW,10,92,9,3,7,6,1,0,0,0
+28-Jan-23 Moonee Valley,Moonee Valley,Metro,VIC,9,78,8,1,7,6,0,1,1,0
